@@ -1,6 +1,6 @@
 # React-native-app
-ToDo App Documentation
-Introduction
+
+#Introduction
 The ToDo app is a mobile application developed using React Native. It allows users to manage their tasks, set due dates, prioritize tasks, and track task completion. The app also provides motivational quotes to keep users inspired. This documentation provides an overview of the app structure, features, and suggestions for further development.
 App Structure
 The ToDo app is structured as follows:
