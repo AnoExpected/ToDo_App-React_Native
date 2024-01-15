@@ -29,7 +29,7 @@ Here are some areas where developers can contribute and enhance the ToDo app:
 2.	Task Sorting: Add functionality to sort tasks based on different criteria such as due date or priority.
 3.	Task Filtering: Allow users to filter tasks based on completion status, priority, or due date range.
 4.	Data Persistence: Integrate a database or local storage solution to persist tasks across app sessions.
-5.	User Authentication: Implement user authentication to enable multiple users to have their own task lists.
+5.	User Authentication: Implement user authentication to enable multiple users to have their task lists.
 6.	Task Sharing: Add the ability to share tasks with other users via email or messaging apps.
 7.	Task Categories/Labels: Introduce categories or labels for tasks to enable better organization and grouping.
 8.	Task Search: Implement a search functionality to allow users to search for specific tasks by name or keywords.
@@ -46,4 +46,4 @@ Developers can contribute to the ToDo app on GitHub by:
 5.	Creating a pull request from their branch to the original repository, describing the changes made and the purpose.
 6.	Discussing and reviewing the changes with other contributors.
 7.	Making further modifications based on feedback received.
-8.	Once the changes are reviewed and approved, they will
+8.	Once the changes are reviewed and approved, they will.
